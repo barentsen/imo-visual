@@ -1,0 +1,27 @@
+{
+    "first_names": "Geert",
+    "last_names": "Barentsen",
+    "email": "g.barentsen@herts.ac.uk",
+    "experience": "good",
+    "location": "Hatfield",
+    "country": "UK",
+    "longitude": -0.154584,
+    "latitude": 51.25485,
+    "comments": "I had fun!",
+    "night": "",
+    "intervals": [
+        {
+            "start": "2015-01-01T00:30:00",
+            "stop": "2015-01-01T01:00:00",
+            "lm": 5.5,
+            "obstruction": 10,
+            "breaks": 0,
+            "meteors": [{"shower":"PER", "count":0, "magnitudes": []},
+                        {"shower":"SPO", "count":2, "magnitudes": [1, 3]}]
+        },
+
+    ],
+
+    "origin": "IMO website",
+    "ip": "123.45.123.45"
+}
